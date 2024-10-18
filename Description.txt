@@ -1,0 +1,10 @@
+The dataset consists of several CSV files related to Harry Potter movies. Here's a breakdown of the files:
+
+Chapters.csv: Likely contains information about chapters within the movies.
+Characters.csv: Information on characters from the Harry Potter movies.
+Data_Dictionary.csv: Describes the structure and meaning of each column in the other files.
+Dialogue.csv: Contains dialogues spoken by characters in the movies.
+LICENSE: Licensing information for the dataset.
+Movies.csv: General information about the movies, possibly including release dates, directors, etc.
+Places.csv: Locations mentioned or visited in the movies.
+Spells.csv: Information on spells used in the movies.

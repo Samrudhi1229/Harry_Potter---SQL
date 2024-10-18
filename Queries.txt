@@ -1,0 +1,15 @@
+Basic -
+1) Write a query to list all movies with their release year and director.
+2)Query the number of unique characters that appear across all movies.
+3)Write a query to list all dialogues spoken by a particular character in any movie.
+4)Write a query to list all unique places mentioned across all movies.
+
+Intermediate -
+1)Write a query to find out which character has the longest average dialogue length in a movie.
+2)Identify the movie with the highest number of chapters.
+3)Write a query to calculate the total runtime of all Harry Potter movies combined.
+4)Identify which places have the most dialogues associated with them and list the top 5 places.
+5)Find the 4 most commonly used spell across all movies.
+
+Advanced -
+Find the Most Popular House Based on Character Appearances.

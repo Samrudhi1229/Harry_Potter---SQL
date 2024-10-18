@@ -1,0 +1,167 @@
+Character_ID,Character_Name,Species,Gender,House,Patronus,Wand(Wood),Wand(Core)
+1,Harry Potter,Human,Male,Gryffindor,Stag,Holly,Phoenix Feather
+2,Ron Weasley,Human,Male,Gryffindor,Jack Russell Terrier,unknown,unknown
+3,Hermione Granger,Human,Female,Gryffindor,Otter,Vine,Dragon Heartstring
+4,Albus Dumbledore,Human,Male,Gryffindor,Phoenix,Elder,Thestral Tail Hair
+5,Rubeus Hagrid,Half-Human/Half-Giant,Male,Gryffindor,mouse,Oak,unknown
+6,Severus Snape,Human,Male,Slytherin,Doe,unknown,unknown
+7,Minerva McGonagall,Human,Female,Gryffindor,Cat,Fir,Dragon Heartstring
+8,Horace Slughorn,Human,Male,Slytherin,mouse,Cedar,Dragon Heartstring
+9,Voldemort,Human,Male,Slytherin,mouse,Yew,Phoenix Feather
+10,Neville Longbottom,Human,Male,Gryffindor,mouse,Cherry,Unicorn Hair
+11,Remus Lupin,Werewolf,Male,Gryffindor,Wolf,Cypress,Unicorn Hair
+12,Draco Malfoy,Human,Male,Slytherin,mouse,Hawthorn,Unicorn Hair
+13,Alastor Moody,Human,Male,Unknown,mouse,unknown,unknown
+14,Fred Weasley,Human,Male,Gryffindor,mouse,unknown,unknown
+15,Dolores Umbridge,Human,Female,Slytherin,Cat,Birch,Dragon Heartstring
+16,Arthur Weasley,Human,Male,Gryffindor,Weasel,unknown,unknown
+17,Cornelius Fudge,Human,Male,Unknown,mouse,unknown,unknown
+18,Sirius Black,Human,Male,Gryffindor,mouse,unknown,unknown
+19,George Weasley,Human,Male,Gryffindor,mouse,unknown,unknown
+20,Ginny Weasley,Human,Female,Gryffindor,Horse,unknown,unknown
+21,Vernon Dursley,Human,Male,Unknown,mouse,unknown,unknown
+22,Bellatrix Lestrange,Human,Female,Slytherin,mouse,Walnut,Dragon Heartstring
+23,Lucius Malfoy,Human,Male,Slytherin,mouse,Elm,Dragon Heartstring
+24,Tom Riddle,Human,Male,Slytherin,mouse,Yew,Phoenix Feather
+25,Luna Lovegood,Human,Female,Ravenclaw,Hare,unknown,unknown
+26,Molly Weasley,Human,Female,Gryffindor,mouse,unknown,unknown
+27,Dobby,House Elf,Male,Unknown,mouse,unknown,unknown
+28,Gilderoy Lockhart,Human,Male,Ravenclaw,mouse,Cherry,Dragon Heartstring
+29,Seamus Finnigan,Human,Male,Gryffindor,Fox,unknown,unknown
+30,Griphook,Goblin,Male,Unknown,mouse,unknown,unknown
+31,Dudley Dursley,Human,Male,Unknown,mouse,unknown,unknown
+32,Petunia Dursley,Human,Female,Unknown,mouse,unknown,unknown
+33,Barty Crouch Sr.,Human,Male,Unknown,mouse,unknown,unknown
+34,Xenophilius Lovegood,Human,Male,Unknown,mouse,unknown,unknown
+35,Argus Filch,Human,Male,Unknown,mouse,unknown,unknown
+36,Cedric Diggory,Human,Male,Hufflepuff,mouse,unknown,unknown
+37,Percy Weasley,Human,Male,Gryffindor,mouse,unknown,unknown
+38,Sybill Trelawney,Human,Female,Ravenclaw,mouse,Hazel,Unicorn Hair
+39,Moaning Myrtle,Ghost,Female,Ravenclaw,mouse,unknown,unknown
+40,Aberforth Dumbledore,Human,Male,Unknown,Goat,unknown,unknown
+41,Quirinus Quirrell,Human,Male,Ravenclaw,mouse,Alder,Unicorn Hair
+42,James Potter,Human,Male,Gryffindor,Stag,Mahogany,unknown
+43,Garrick Ollivander,Human,Male,Ravenclaw,mouse,Hornbeam,Dragon Heartstring
+44,Peter Pettigrew,Human,Male,Gryffindor,mouse,Chestnut,Dragon Heartstring
+45,Lily Potter,Human,Female,Gryffindor,Doe,Willow,unknown
+46,Oliver Wood,Human,Male,Gryffindor,mouse,unknown,unknown
+47,Nearly Headless Nick,Ghost,Human,Gryffindor,mouse,unknown,unknown
+48,Kreacher,House Elf,Male,Unknown,mouse,unknown,unknown
+49,Igor Karkaroff,Human,Male,Unknown,mouse,unknown,unknown
+50,Rolanda Hooch,Human,Female,Unknown,mouse,unknown,unknown
+51,Rufus Scrimgeour,Human,Male,Unknown,mouse,unknown,unknown
+52,Lee Jordan,Human,Male,Gryffindor,mouse,unknown,unknown
+53,Scabior,Human,Male,Slytherin,mouse,unknown,unknown
+54,Helena Ravenclaw,Ghost,Female,Ravenclaw,mouse,unknown,unknown
+55,Cho Chang,Human,Female,Ravenclaw,Swan,unknown,unknown
+56,Kingsley Shacklebolt,Human,Male,Unknown,Lynx,unknown,unknown
+57,Rita Skeeter,Human,Female,Unknown,mouse,unknown,unknown
+58,Stanley Shunpike,Human,Male,Unknown,mouse,unknown,unknown
+59,Filius Flitwick,Human (Part-Goblin),Male,Ravenclaw,mouse,unknown,unknown
+60,Marge Dursley,Human,Female,Unknown,mouse,unknown,unknown
+61,Nymphadora Tonks,Human,Female,Hufflepuff,Jack rabbit,unknown,unknown
+62,Elphias Doge,Human,Male,Unknown,mouse,unknown,unknown
+63,Narcissa Malfoy,Human,Female,Slytherin,mouse,unknown,unknown
+64,Bogrod,Goblin,Male,Unknown,mouse,unknown,unknown
+65,Lavender Brown,Human,Female,Gryffindor,mouse,unknown,unknown
+66,Rosmerta,Human,Female,Unknown,mouse,unknown,unknown
+67,Amos Diggory,Human,Male,Unknown,mouse,unknown,unknown
+68,Aragog,Acromantula,Male,Unknown,mouse,unknown,unknown
+69,Olympe Maxime,Half-Human/Half-Giant,Female,Beauxbatons Academy of Magic,mouse,unknown,unknown
+70,Corban Yaxley,Human,Male,Slytherin,mouse,unknown,unknown
+71,Cormac McLaggen,Human,Male,Gryffindor,mouse,unknown,unknown
+72,Susan Bones,Human,Female,Hufflepuff,mouse,unknown,unknown
+73,Bill Weasley,Human (Werewolf traits),Male,Gryffindor,mouse,unknown,unknown
+74,Angelina Johnson,Human,Female,Gryffindor,mouse,unknown,unknown
+75,Dean Thomas,Human,Male,Gryffindor,mouse,unknown,unknown
+76,Mundungus Fletcher,Human,Male,Unknown,mouse,unknown,unknown
+77,Muriel,Human,Female,Unknown,mouse,unknown,unknown
+78,Parvati Patil,Human,Female,Gryffindor,mouse,unknown,unknown
+79,Pomona Sprout,Human,Female,Hufflepuff,mouse,unknown,unknown
+80,Vincent Crabbe,Human,Male,Slytherin,mouse,unknown,unknown
+81,Fleur Delacour,Human (Quarter-Veela),Female,Beauxbatons Academy of Magic,mouse,unknown,unknown
+82,Marcus Flint,Human,Male,Slytherin,mouse,unknown,unknown
+83,Mary Cattermole,Human,Female,Unknown,mouse,unknown,unknown
+84,Albus Potter,Human,Male,Slytherin,mouse,unknown,unknown
+85,Poppy Pomfrey,Human,Female,Unknown,mouse,unknown,unknown
+86,Serpent of Slitherin,Basilisk,Female,Unknown,mouse,unknown,unknown
+87,Firenze,Centaur,Male,Unknown,mouse,unknown,unknown
+88,Arabella Figg,Human,Female,Unknown,mouse,unknown,unknown
+89,Barty Crouch Jr.,Human,Male,Unknown,mouse,unknown,unknown
+90,Mrs. Cole,Human,Male,Unknown,mouse,unknown,unknown
+91,Pansy Parkinson,Human,Female,Slytherin,mouse,unknown,unknown
+92,Tom,Human,Male,Unknown,mouse,unknown,unknown
+93,Grawp,Giant,Male,Unknown,mouse,unknown,unknown
+94,Katie Bell,Human,Female,Gryffindor,mouse,unknown,unknown
+95,Mrs. Granger,Human,Female,Unknown,mouse,unknown,unknown
+96,Pius Thicknesse,Human,Male,Unknown,mouse,unknown,unknown
+97,Bane,Centaur,Male,Unknown,mouse,unknown,unknown
+98,Gellert Grindelwald,Human,Male,Durmstrang Institute,mouse,unknown,unknown
+99,Gregory Goyle,Human,Male,Slytherin,mouse,unknown,unknown
+100,Leanne,Human,Female,Hufflepuff,mouse,unknown,unknown
+101,Padma Patil,Human,Female,Ravenclaw,mouse,unknown,unknown
+102,Fenrir Greyback,Werewolf,Male,Unknown,mouse,unknown,unknown
+103,Magorian,Centaur,Male,Unknown,mouse,unknown,unknown
+104,Bathilda Bagshot,Human,Female,Unknown,mouse,unknown,unknown
+105,Blaise Zabini,Human,Male,Slytherin,mouse,unknown,unknown
+106,Colin Creevey,Human,Male,Gryffindor,mouse,unknown,unknown
+107,Everard,Human,Male,Unknown,mouse,unknown,unknown
+108,Griselda Marchbanks,Human,Female,Unknown,mouse,unknown,unknown
+109,Justin Finch-Fletchley,Human,Male,Hufflepuff,mouse,unknown,unknown
+110,Mr. Granger,Human,Male,Unknown,mouse,unknown,unknown
+111,Nigel Wolpert,Human,Male,Gryffindor,mouse,unknown,unknown
+112,Perkins,Human,Male,Unknown,mouse,unknown,unknown
+113,Phineas,Human,Male,Unknown,mouse,unknown,unknown
+114,Viktor Krum,Human,Male,Durmstrang Institute,mouse,unknown,unknown
+115,Walburga Black,Human,Female,Slytherin,mouse,unknown,unknown
+116,Zacharias Smith,Human,Male,Hufflepuff,mouse,unknown,unknown
+117,Bloody Baron,Ghost,Male,Slytherin,mouse,unknown,unknown
+118,Ernest Macmillan,Human,Male,Hufflepuff,Boar,unknown,unknown
+119,Michael Corner,Human,Male,Ravenclaw,Squirrel,unknown,unknown
+120,Alecto Carrow,Human,Female,Slytherin,mouse,unknown,unknown
+121,Charity Burbage,Human,Female,Unknown,mouse,unknown,unknown
+122,Dilys Derwent,Human,Female,Unknown,mouse,unknown,unknown
+123,Eldred Worple,Human,Male,Unknown,mouse,unknown,unknown
+124,Marcus Belby,Human,Male,Ravenclaw,mouse,unknown,unknown
+125,Mykew Gregorovitch,Human,Male,Unknown,mouse,unknown,unknown
+126,Other,,,Unknown,mouse,unknown,unknown
+127,Students,,,Unknown,mouse,unknown,unknown
+128,Sorting Hat,,,Unknown,mouse,unknown,unknown
+129,Ghosts,,,Unknown,mouse,unknown,unknown
+130,Merpeople,,,Unknown,mouse,unknown,unknown
+131,Gang thug,,,Unknown,mouse,unknown,unknown
+132,Goblin,,,Unknown,mouse,unknown,unknown
+133,Station guard,,,Unknown,mouse,unknown,unknown
+134,Girl,,,Unknown,mouse,unknown,unknown
+135,Guard,,,Unknown,mouse,unknown,unknown
+136,All,,,Unknown,mouse,unknown,unknown
+137,Maid,,,Unknown,mouse,unknown,unknown
+138,Boy,,,Unknown,mouse,unknown,unknown
+139,Man,,,Unknown,mouse,unknown,unknown
+140,Woman,,,Unknown,mouse,unknown,unknown
+141,The Fat Lady,,,Unknown,mouse,unknown,unknown
+142,Snatcher,,,Unknown,mouse,unknown,unknown
+143,Wizard,,,Unknown,mouse,unknown,unknown
+144,Diary,,,Unknown,mouse,unknown,unknown
+145,Trolley witch,,,Unknown,mouse,unknown,unknown
+146,Waitress,,,Unknown,mouse,unknown,unknown
+147,Ghost,,,Unknown,mouse,unknown,unknown
+148,Howler,,,Unknown,mouse,unknown,unknown
+149,Old man,,,Unknown,mouse,unknown,unknown
+150,Shrunken head,,,Unknown,mouse,unknown,unknown
+151,Skinny kid,,,Unknown,mouse,unknown,unknown
+152,Snake,,,Unknown,mouse,unknown,unknown
+153,Witch,,,Unknown,mouse,unknown,unknown
+154,Class,,,Unknown,mouse,unknown,unknown
+155,Whomping Willow,,,Unknown,mouse,unknown,unknown
+156,Centaur,,,Unknown,mouse,unknown,unknown
+157,Death Eater,,,Unknown,mouse,unknown,unknown
+158,Man in a painting,,,Unknown,mouse,unknown,unknown
+159,Photographer,,,Unknown,mouse,unknown,unknown
+160,Pixie,,,Unknown,mouse,unknown,unknown
+161,Student,,,Unknown,mouse,unknown,unknown
+162,Waiter,,,Unknown,mouse,unknown,unknown
+163,Boy 2,,,Unknown,mouse,unknown,unknown
+164,Crowd,,,Unknown,mouse,unknown,unknown
+165,Gryffindors,,,Unknown,mouse,unknown,unknown
+166,Professors,,,Unknown,mouse,unknown,unknown
